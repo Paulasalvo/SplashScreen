@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="texto2">cruelty free</string>
+    <string name="veggie_brands">Veggie Brands</string>
+</resources>
